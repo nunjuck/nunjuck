@@ -1,9 +1,10 @@
-### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+## Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 
-<p>I'm a frontend developer and ux designer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Kovrov, Russia</b>, currently living in <b>Kazan</b>. </p>
+I'm a frontend developer and ux designer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> __Kovrov, Russia__, currently living in __Kazan__.
 
-<h3>Things I code with</h3>
+### Things I code with
+
 <p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
