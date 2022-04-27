@@ -6,6 +6,7 @@ I'm a frontend developer.
 ### Things I code with
 
 <p>
+  <img alt="Reactjs" src="https://img.shields.io/badge/-React-282c34?style=flat-square&logo=React&logoColor=61DAFB" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -15,5 +16,4 @@ I'm a frontend developer.
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue-43853d?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Nuxtjs" src="https://img.shields.io/badge/-Nuxt-43853d?style=flat-square&logo=Nuxt.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Reactjs" src="https://img.shields.io/badge/-React-282c34?style=flat-square&logo=React&logoColor=61DAFB" />
 </p>
